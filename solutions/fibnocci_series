@@ -9,4 +9,5 @@ def fib(n):
     a = b
     b = c
 
-fib(10)
+x = int(input("Enter number :"))
+fib(x)
